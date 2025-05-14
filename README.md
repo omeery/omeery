@@ -16,7 +16,7 @@ Currently, I am focused on improving security in the **DevSecOps** pipeline and 
 
 ### 💼 My Current Work
 
-- **Founder of [GeneralVulnerabilityScanner](https://github.com/omeryel/GeneralVulnerabilityScanner)**: A TypeScript-based AI-assisted CLI tool for detecting and fixing OWASP Top 10 vulnerabilities in web applications.
+- **Founder of [GeneralVulnerabilityScanner](https://github.com/omeery/GeneralVulnerabilityScanner)**: A TypeScript-based AI-assisted CLI tool for detecting and fixing OWASP Top 10 vulnerabilities in web applications.
 - **Contributing to Open-Source Security Projects**: I actively contribute to open-source projects like **OWASP Juice Shop**, helping build secure web applications and improve security practices.
 - **Active in AppSec Community**: I continuously explore vulnerabilities, security testing, and penetration testing to stay on top of current threats and methodologies.
 
@@ -34,7 +34,7 @@ Currently, I am focused on improving security in the **DevSecOps** pipeline and 
 
 ### 🌱 Ongoing Projects & Contributions
 
-- **[GeneralVulnerabilityScanner](https://github.com/omeryel/GeneralVulnerabilityScanner)**: Developed to automatically scan and fix common security vulnerabilities (e.g., SQL Injection, XSS) in web applications using AI.
+- **[GeneralVulnerabilityScanner](https://github.com/omeery/GeneralVulnerabilityScanner)**: Developed to automatically scan and fix common security vulnerabilities (e.g., SQL Injection, XSS) in web applications using AI.
 - **OWASP Juice Shop**: Contributing towards enhancing security features and vulnerability scanning in OWASP Juice Shop, a security-aware web application.
 - **Security Awareness**: I’m focused on making security an integral part of the developer lifecycle, educating teams on best practices in secure coding.
 
@@ -57,9 +57,8 @@ Currently, I am focused on improving security in the **DevSecOps** pipeline and 
 ### 📬 Let's Connect
 
 Feel free to reach out to me via:
-- **[LinkedIn](https://www.linkedin.com/in/omeery)**  
+- **[LinkedIn](https://www.linkedin.com/in/omeryell)**  
 - **[Email](mailto:yelomerr@gmail.com)**  
-- **[Twitter](https://twitter.com/omeery)** (Optional)
 
 ---
 
